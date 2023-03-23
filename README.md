@@ -58,3 +58,7 @@ The static IPv4 address can be changed via the SSV/WebUI or DHCP can also be act
 The DNP/8331 Linux supports the UPnP service ex works, so you can search for the DNP/8331 in the local Ethernet network from your PC. Alternatively you can of course read out and also change the current IP address at any time via serial console and the Linux command line (see Linux ifconfig command line function).
 
 For more information about the MB/941 carrier board please see https://www.ssv-embedded.de/doks/manuals/hr_mb941_en.pdf.
+
+## Micro How-Tos
+
+* [Altium Designer Development Workflow](HowTos/Altium%20Designer%20Development%20Workflow.md)
