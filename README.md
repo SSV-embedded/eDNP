@@ -62,3 +62,4 @@ For more information about the MB/941 carrier board please see https://www.ssv-e
 ## Micro How-Tos
 
 * [Altium Designer Development Workflow](HowTos/Altium%20Designer%20Development%20Workflow.md)
+* [First Steps with the Evaluation Kit (EK)](HowTos/First%20Steps%20with%20the%20Evaluation%20Kit%20(EK).md)
